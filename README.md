@@ -5,7 +5,7 @@ I'm a Software Developer with a special interest in Web3.
 
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioBarreira89&title_color=818cf8&bg_color=111827&text_color=e5e7eb&border_color=e5e7eb)](https://github.com/claudioBarreira89)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioBarreira89&title_color=5095ea&bg_color=112837&text_color=ffffff&border_color=ffffff)](https://github.com/claudioBarreira89)
 
 You can reach me by:
 - [Email](mailto:claudio.barreira89@gmail.com)
