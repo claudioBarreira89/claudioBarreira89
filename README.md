@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm a Software Developer with a special interest in Web3.
 
 <!--
 **claudioBarreira89/claudioBarreira89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
